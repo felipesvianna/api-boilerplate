@@ -11,7 +11,7 @@ Boilerplate para REST API para autenticação de usuários e banco de dados Mong
 
 ### Prerequisites
 
-- [MongoDB](https://www.mongodb.com/)
+- Ter um [MongoDB](https://www.mongodb.com/) configurado.
 
 ### Installing
 
@@ -35,7 +35,7 @@ npm start
 
 ### Coding Styles
 
-- [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)https://github.com/airbnb/javascript
+- [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
 - [Airbnb JavaScript Style](https://github.com/airbnb/javascript)
 - [OWASP - REST Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md)
 
