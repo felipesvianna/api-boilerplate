@@ -1,0 +1,2 @@
+/* Arquivo que contera as definicoes de determinada rota 
+Este arquivo deve ser renomeado e modificado ou deletado. */

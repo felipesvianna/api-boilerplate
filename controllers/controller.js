@@ -1,0 +1,2 @@
+/* Arquivo que contera as actions de determinado controller 
+Este arquivo deve ser renomeado e modificado ou deletado. */

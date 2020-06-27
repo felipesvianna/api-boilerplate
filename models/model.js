@@ -1,0 +1,2 @@
+/* Arquivo que contera as definicoes de determinada model. 
+Este arquivo deve ser renomeado e modificado ou deletado. */

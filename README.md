@@ -65,6 +65,7 @@ O arquivo _.env.model_ serve como modelo.
 ## Versioning
 
 - [SemVer](https://semver.org/)
+- [Karma - Git Commit Msg](http://karma-runner.github.io/5.0/dev/git-commit-msg.html)
 
 ## Authors
 
