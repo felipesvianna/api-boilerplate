@@ -39,6 +39,8 @@ npm start
 - [Airbnb JavaScript Style](https://github.com/airbnb/javascript)
 - [OWASP - REST Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md)
 
+- Contem configurações para o Prettier usando ESLint e Airbnb Javascript Style
+
 ## Deployment
 
 Este projeto utiliza [DotEnv](https://www.npmjs.com/package/dotenv) para gerenciar as variáveis de ambiente.
