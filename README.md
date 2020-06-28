@@ -1,6 +1,6 @@
 # Api Boilerplate
 
-Boilerplate para REST API para autenticação de usuários e banco de dados MongoDB.
+Boilerplate em NodeJS para REST API para autenticação de usuários e banco de dados MongoDB.
 
 ## Getting Started
 
