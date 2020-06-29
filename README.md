@@ -1,6 +1,6 @@
 # API NodeJS Boilerplate
 
-Boilerplate para REST API para autenticação de usuários e banco de dados MongoDB.
+Boilerplate em NodeJS para REST API para autenticação de usuários e banco de dados MongoDB.
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
@@ -75,6 +75,8 @@ npm start
 - nodemon
 
 ## Padrões de Desenvolvimento
+
+Contem configurações para o Prettier usando ESLint e Airbnb Javascript Style
 
 ### RESTful
 
