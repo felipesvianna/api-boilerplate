@@ -1,11 +1,8 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-unneeded-ternary */
-/* eslint-disable no-console */
 const mongoose = require('mongoose');
 
-mongoose.set('debug', process.env.NODE_ENV === 'dev' ? true : false);
+mongoose.set('debug', !!process.env.NODE_ENV === 'dev');
 
-const conectarMongoDb = (callback) => {
+function conectarMongoDb(callback) {
   console.log('Conectando MongoDB');
   mongoose
     .connect(process.env.DATABASE_URL, {
@@ -21,6 +18,6 @@ const conectarMongoDb = (callback) => {
       console.log(err);
       throw err;
     });
-};
+}
 
 module.exports = conectarMongoDb;
