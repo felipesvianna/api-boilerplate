@@ -25,7 +25,7 @@ npx npm-check-updates -u
 
 1. Definir instância do MongoDB e prepará-la para receber dados.
 2. Definir as security keys para o JWT e para a sessão.
-3. Copiar o arquivo _.env.model_ e renomea-lo para _.env.development.local._ na raiz do projeto
+3. Copiar o arquivo _.env.model_ e renomeá-lo para _.env.development.local._ na raiz do projeto
 4. Colocar a URI do MongoDB e definir as variáveis no arquivo .env.development.local.
 5. Colocar o arquivo .env.development.local no _.gitignore_.
 6. Definir o nome da sua API na propriedade "name" dos arquivos package.json e package-lock.json.
