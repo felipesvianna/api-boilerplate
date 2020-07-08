@@ -41,5 +41,8 @@ app.use(
 // Resources
 
 conectarMongoDb(() => {
-  app.listen(process.env.SERVER_PORT, `Server running at port ${process.env.SERVER_PORT}`);
+  app.listen(process.env.SERVER_PORT, () =>
+    // eslint-disable-next-line no-console
+    console.log(`Server running at port ${process.env.SERVER_PORT}`)
+  );
 });
