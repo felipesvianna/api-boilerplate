@@ -28,7 +28,8 @@ npx npm-check-updates -u
 3. Criar um arquivo _.env.development.local._ na raiz do projeto
 4. Colocar a URI do MongoDB e definir as variáveis no arquivo .env.development.local.
 5. Colocar o arquivo .env.development.local no _.gitignore_.
-6. Desenvolver sua API.
+6. Definir o nome da sua API na propriedade "name" dos arquivos package.json e package-lock.json.
+7. Desenvolver sua API.
 
 Há dois ambientes: De desenvolvimento e produção.
 
