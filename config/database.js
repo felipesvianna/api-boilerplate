@@ -9,6 +9,7 @@ function conectarMongoDb(callback) {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useFindAndModify: false,
+      useCreateIndex: true,
     })
     .then((client) => {
       console.log('MongoDB conectado');
