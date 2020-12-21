@@ -127,6 +127,3 @@ npx install-peerdeps --dev eslint-config-airbnb
 
 - **Felipe Vianna** - [Github](https://github.com/felipesvianna)
 
-## Licença
-
-Informações de licença e links.
